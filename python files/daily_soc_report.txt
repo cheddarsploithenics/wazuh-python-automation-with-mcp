@@ -1,0 +1,17 @@
+Wazuh Daily SOC Report
+============================================================
+Generated: 2026-06-13 09:19:37.254516
+
+Agent Summary
+------------------------------------------------------------
+Total Agents: 4
+Active Agents: 3
+Inactive Agents: 1
+
+Inactive Agents
+------------------------------------------------------------
+ID: 004 | Name: WIN11PC | IP: 192.168.16.159 | Status: pending
+
+High Severity Alerts
+------------------------------------------------------------
+No high-severity alerts found.
